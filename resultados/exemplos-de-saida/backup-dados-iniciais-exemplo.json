@@ -1,0 +1,690 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "id": "psolar",
+      "name": "Previsão de geração em usina solar",
+      "description": "Prever a geração de energia de uma usina fotovoltaica e sinalizar quedas de desempenho a partir de dados históricos públicos.",
+      "objective": "Projeto de entrada no portfólio: problema concreto, dados públicos e resultado fácil de explicar em entrevista.",
+      "area": "Energia · Séries temporais · Fase 1",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Séries temporais",
+        "XGBoost",
+        "Git"
+      ],
+      "stage": "planejamento",
+      "priority": "alta",
+      "steps": [
+        {
+          "id": "stxpyxpgzaej",
+          "title": "Estudo: SQL (item 1 do roteiro)",
+          "done": false
+        },
+        {
+          "id": "st3f7u7ozaej",
+          "title": "Estudo: validação estatística de modelos (item 2)",
+          "done": false
+        },
+        {
+          "id": "st7wmbqwzaej",
+          "title": "Escolher o dataset público de geração fotovoltaica",
+          "done": false
+        },
+        {
+          "id": "stm0h2fmzaej",
+          "title": "Carregar os dados em um banco SQL e explorar com consultas",
+          "done": false
+        },
+        {
+          "id": "st3jrxlszaej",
+          "title": "Decomposição da série e atributos temporais",
+          "done": false
+        },
+        {
+          "id": "stqonnk3zaej",
+          "title": "Modelo de previsão e comparação com uma linha de base",
+          "done": false
+        },
+        {
+          "id": "sthdlt2izaej",
+          "title": "Validação com divisão temporal",
+          "done": false
+        },
+        {
+          "id": "st1r5jgezaej",
+          "title": "README (problema → dado → abordagem → resultado → aprendizado)",
+          "done": false
+        },
+        {
+          "id": "stkhipavzaej",
+          "title": "Publicar no GitHub e escrever post no LinkedIn",
+          "done": false
+        }
+      ],
+      "dates": [
+        {
+          "id": "dz714a4zaej",
+          "label": "Fim da fase 1 do roteiro (estimativa)",
+          "date": "2026-12-15"
+        }
+      ],
+      "links": [],
+      "files": [],
+      "notes": "Dado sugerido: dataset público \"Solar Power Generation Data\" (Kaggle).\n\nFormato do README: problema → dado → abordagem → resultado → aprendizado. Não incluir métricas que não tenham sido realmente medidas.",
+      "readme": {
+        "problema": "",
+        "dados": "",
+        "abordagem": "",
+        "tecnologias": "",
+        "metodologia": "",
+        "resultados": "",
+        "aprendizados": "",
+        "proximosPassos": "",
+        "resultadosVerificados": false
+      },
+      "interview": {
+        "pitch": "",
+        "contexto": "",
+        "desafio": "",
+        "acao": "",
+        "resultado": "",
+        "decisoes": "",
+        "perguntas": ""
+      },
+      "stageHistory": [
+        {
+          "stage": "planejamento",
+          "at": "2026-11-18T00:59:55.627Z"
+        }
+      ],
+      "deliverables": [
+        "Repositório GitHub com README",
+        "Post no LinkedIn"
+      ],
+      "order": 0,
+      "createdAt": "2026-11-18T00:59:55.627Z",
+      "updatedAt": "2026-11-18T00:59:55.627Z",
+      "roadmapPhase": 1,
+      "startDate": "2026-11-17",
+      "targetDate": "2026-12-15"
+    },
+    {
+      "id": "ppdm",
+      "name": "Manutenção preditiva com dataset público",
+      "description": "Prever falha iminente de equipamento ou estimar a vida útil restante (RUL) com um dataset público bem documentado.",
+      "objective": "Mostrar classificação de falha e regressão de RUL em dados industriais de referência.",
+      "area": "Indústria · Prognóstico (RUL) · Fase 2",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Scikit-learn",
+        "Séries temporais",
+        "PyTorch",
+        "Git"
+      ],
+      "stage": "planejamento",
+      "priority": "alta",
+      "steps": [
+        {
+          "id": "st9r27k1zaek",
+          "title": "Escolher dataset: NASA C-MAPSS ou AI4I 2020 (UCI)",
+          "done": false
+        },
+        {
+          "id": "std5804pzaek",
+          "title": "Análise exploratória e definição do alvo",
+          "done": false
+        },
+        {
+          "id": "st3ej7clzaek",
+          "title": "Classificação de falha (linha de base)",
+          "done": false
+        },
+        {
+          "id": "sti06qglzaek",
+          "title": "Regressão de RUL",
+          "done": false
+        },
+        {
+          "id": "st7i3lmezaek",
+          "title": "Validação estatística dos modelos",
+          "done": false
+        },
+        {
+          "id": "strqpm45zaek",
+          "title": "Versão com LSTM em PyTorch (opcional)",
+          "done": false
+        },
+        {
+          "id": "ste20su0zaek",
+          "title": "README e publicação no GitHub",
+          "done": false
+        }
+      ],
+      "dates": [
+        {
+          "id": "dilcfj8zaek",
+          "label": "Fim da fase 2 do roteiro (estimativa)",
+          "date": "2027-01-12"
+        }
+      ],
+      "links": [],
+      "files": [],
+      "notes": "Dados sugeridos: NASA C-MAPSS ou AI4I 2020 Predictive Maintenance Dataset (UCI).\n\nFormato do README: problema → dado → abordagem → resultado → aprendizado. Não incluir métricas que não tenham sido realmente medidas.",
+      "readme": {
+        "problema": "",
+        "dados": "",
+        "abordagem": "",
+        "tecnologias": "",
+        "metodologia": "",
+        "resultados": "",
+        "aprendizados": "",
+        "proximosPassos": "",
+        "resultadosVerificados": false
+      },
+      "interview": {
+        "pitch": "",
+        "contexto": "",
+        "desafio": "",
+        "acao": "",
+        "resultado": "",
+        "decisoes": "",
+        "perguntas": ""
+      },
+      "stageHistory": [
+        {
+          "stage": "planejamento",
+          "at": "2026-11-18T00:59:55.628Z"
+        }
+      ],
+      "deliverables": [
+        "Repositório GitHub com README",
+        "Dashboard simples (opcional)"
+      ],
+      "order": 1,
+      "createdAt": "2026-11-18T00:59:55.628Z",
+      "updatedAt": "2026-11-18T00:59:55.628Z",
+      "roadmapPhase": 2,
+      "startDate": "2026-12-15",
+      "targetDate": "2027-01-12"
+    },
+    {
+      "id": "ptuning",
+      "name": "Sintonia automática de PID com otimização",
+      "description": "Ajustar automaticamente os ganhos de um controlador PID simulado usando otimização bayesiana.",
+      "objective": "Unir teoria de controle e ML numa comparação justa entre métodos de sintonia.",
+      "area": "Controle · Otimização · Fase 3",
+      "technologies": [
+        "Python",
+        "SciPy",
+        "python-control",
+        "Otimização bayesiana",
+        "Git"
+      ],
+      "stage": "ideias",
+      "priority": "media",
+      "steps": [
+        {
+          "id": "stjefluyzaek",
+          "title": "Modelar uma planta de 2ª ordem em simulação",
+          "done": false
+        },
+        {
+          "id": "stufystzzaek",
+          "title": "Definir a função de custo (IAE, overshoot, esforço de controle)",
+          "done": false
+        },
+        {
+          "id": "st079ll8zaek",
+          "title": "Sintonia por grid search (referência)",
+          "done": false
+        },
+        {
+          "id": "st1ekx0qzaek",
+          "title": "Sintonia por otimização bayesiana",
+          "done": false
+        },
+        {
+          "id": "st46qfgkzaek",
+          "title": "Comparação estatística entre as configurações",
+          "done": false
+        },
+        {
+          "id": "stnpgpr5zaek",
+          "title": "Documentar e publicar",
+          "done": false
+        }
+      ],
+      "dates": [
+        {
+          "id": "d5o953mzaek",
+          "label": "Fim da fase 3 do roteiro (estimativa)",
+          "date": "2027-02-09"
+        }
+      ],
+      "links": [],
+      "files": [],
+      "notes": "Toda a planta é simulada; deixar isso explícito no README.\n\nFormato do README: problema → dado → abordagem → resultado → aprendizado. Não incluir métricas que não tenham sido realmente medidas.",
+      "readme": {
+        "problema": "",
+        "dados": "",
+        "abordagem": "",
+        "tecnologias": "",
+        "metodologia": "",
+        "resultados": "",
+        "aprendizados": "",
+        "proximosPassos": "",
+        "resultadosVerificados": false
+      },
+      "interview": {
+        "pitch": "",
+        "contexto": "",
+        "desafio": "",
+        "acao": "",
+        "resultado": "",
+        "decisoes": "",
+        "perguntas": ""
+      },
+      "stageHistory": [
+        {
+          "stage": "ideias",
+          "at": "2026-11-18T00:59:55.628Z"
+        }
+      ],
+      "deliverables": [
+        "Repositório GitHub com README"
+      ],
+      "order": 2,
+      "createdAt": "2026-11-18T00:59:55.628Z",
+      "updatedAt": "2026-11-18T00:59:55.628Z",
+      "roadmapPhase": 3,
+      "startDate": "2027-01-12",
+      "targetDate": "2027-02-09"
+    },
+    {
+      "id": "panomaly",
+      "name": "Detecção de anomalia em rede industrial simulada",
+      "description": "Simular tráfego Modbus TCP e treinar um modelo que detecte comportamentos anômalos.",
+      "objective": "Projeto mais avançado do portfólio, juntando protocolo industrial e detecção de anomalia.",
+      "area": "Automação + IA · Fase 4",
+      "technologies": [
+        "Python",
+        "pymodbus",
+        "Modbus TCP",
+        "Scikit-learn",
+        "Isolation Forest",
+        "Git"
+      ],
+      "stage": "ideias",
+      "priority": "media",
+      "steps": [
+        {
+          "id": "stqkojnszaek",
+          "title": "Estudo: protocolos industriais (item 7)",
+          "done": false
+        },
+        {
+          "id": "st1yyoskzaek",
+          "title": "Gerar tráfego Modbus simulado com pymodbus",
+          "done": false
+        },
+        {
+          "id": "stx04o9hzaek",
+          "title": "Injetar cenários anômalos documentados",
+          "done": false
+        },
+        {
+          "id": "stoj5a8ozaek",
+          "title": "Atributos sobre os pacotes de rede",
+          "done": false
+        },
+        {
+          "id": "stkb8e8bzaek",
+          "title": "Detecção com Isolation Forest",
+          "done": false
+        },
+        {
+          "id": "st186knnzaek",
+          "title": "Análise de falsos positivos",
+          "done": false
+        },
+        {
+          "id": "stmrk6qtzaek",
+          "title": "README e publicação",
+          "done": false
+        }
+      ],
+      "dates": [
+        {
+          "id": "dz6wy0gzaek",
+          "label": "Fim da fase 4 do roteiro (estimativa)",
+          "date": "2027-03-09"
+        }
+      ],
+      "links": [],
+      "files": [],
+      "notes": "Toda a rede é simulada; deixar isso explícito no README.\n\nFormato do README: problema → dado → abordagem → resultado → aprendizado. Não incluir métricas que não tenham sido realmente medidas.",
+      "readme": {
+        "problema": "",
+        "dados": "",
+        "abordagem": "",
+        "tecnologias": "",
+        "metodologia": "",
+        "resultados": "",
+        "aprendizados": "",
+        "proximosPassos": "",
+        "resultadosVerificados": false
+      },
+      "interview": {
+        "pitch": "",
+        "contexto": "",
+        "desafio": "",
+        "acao": "",
+        "resultado": "",
+        "decisoes": "",
+        "perguntas": ""
+      },
+      "stageHistory": [
+        {
+          "stage": "ideias",
+          "at": "2026-11-18T00:59:55.628Z"
+        }
+      ],
+      "deliverables": [
+        "Repositório GitHub com README"
+      ],
+      "order": 3,
+      "createdAt": "2026-11-18T00:59:55.628Z",
+      "updatedAt": "2026-11-18T00:59:55.628Z",
+      "roadmapPhase": 4,
+      "startDate": "2027-02-09",
+      "targetDate": "2027-03-09"
+    }
+  ],
+  "skills": [
+    {
+      "description": "",
+      "notes": "",
+      "id": "ssql",
+      "name": "SQL",
+      "category": "Dados",
+      "level": 1,
+      "target": 3,
+      "roadmapOrder": 1,
+      "roadmapPhase": 1,
+      "content": "SELECT, WHERE, JOIN, GROUP BY, subconsultas e window functions básicas.",
+      "why": "Pré-requisito para extrair dados de qualquer sistema antes de aplicar ML.",
+      "doneCriterion": "Escrever uma consulta que filtra, agrupa e junta duas tabelas sem consultar referência.",
+      "links": [
+        {
+          "projectId": "psolar",
+          "status": "planejada",
+          "evidence": "Armazenar e consultar dados históricos."
+        },
+        {
+          "projectId": "ppdm",
+          "status": "planejada",
+          "evidence": "Organizar dados dos sensores."
+        }
+      ],
+      "history": []
+    },
+    {
+      "description": "",
+      "notes": "",
+      "id": "sstats",
+      "name": "Validação estatística",
+      "category": "Ciência de dados",
+      "level": 1,
+      "target": 3,
+      "roadmapOrder": 2,
+      "roadmapPhase": 1,
+      "content": "Divisão treino/teste, validação cruzada, overfitting, métricas de regressão e classificação.",
+      "why": "Diferencia \"fiz um modelo\" de \"sei defender o modelo\".",
+      "doneCriterion": "Escolher a métrica certa para um problema e mostrar que o modelo não está sobreajustado.",
+      "links": [
+        {
+          "projectId": "psolar",
+          "status": "planejada",
+          "evidence": "Validação dos resultados do projeto."
+        },
+        {
+          "projectId": "ppdm",
+          "status": "planejada",
+          "evidence": "Validação dos resultados do projeto."
+        },
+        {
+          "projectId": "ptuning",
+          "status": "planejada",
+          "evidence": "Validação dos resultados do projeto."
+        },
+        {
+          "projectId": "panomaly",
+          "status": "planejada",
+          "evidence": "Validação dos resultados do projeto."
+        }
+      ],
+      "history": []
+    },
+    {
+      "description": "",
+      "notes": "",
+      "id": "storch",
+      "name": "PyTorch",
+      "category": "Machine Learning",
+      "level": 0,
+      "target": 3,
+      "roadmapOrder": 3,
+      "roadmapPhase": 3,
+      "content": "Tensores, redes feedforward, treino e avaliação, LSTM simples.",
+      "why": "Framework de deep learning mais pedido nas vagas de ML.",
+      "doneCriterion": "Montar, treinar e avaliar uma rede simples do zero.",
+      "links": [
+        {
+          "projectId": "ppdm",
+          "status": "planejada",
+          "evidence": "Versão com LSTM."
+        }
+      ],
+      "history": []
+    },
+    {
+      "description": "",
+      "notes": "",
+      "id": "sts",
+      "name": "Séries temporais",
+      "category": "Ciência de dados",
+      "level": 1,
+      "target": 3,
+      "roadmapOrder": 4,
+      "roadmapPhase": 2,
+      "content": "Decomposição, ARIMA/SARIMA, Holt-Winters, validação temporal.",
+      "why": "Base de previsão e manutenção preditiva.",
+      "doneCriterion": "Decompor uma série e treinar um modelo de previsão com avaliação de erro.",
+      "links": [
+        {
+          "projectId": "psolar",
+          "status": "planejada",
+          "evidence": "Núcleo técnico do projeto."
+        },
+        {
+          "projectId": "ppdm",
+          "status": "planejada",
+          "evidence": "Atributos temporais."
+        }
+      ],
+      "history": []
+    },
+    {
+      "description": "",
+      "notes": "",
+      "id": "sgit",
+      "name": "Git",
+      "category": "Engenharia de software",
+      "level": 1,
+      "target": 3,
+      "roadmapOrder": 5,
+      "roadmapPhase": 2,
+      "content": "Commits, branches, .gitignore e um bom README.",
+      "why": "Torna os projetos rastreáveis e apresentáveis.",
+      "doneCriterion": "Versionar um projeto do zero e publicar com README completo.",
+      "links": [
+        {
+          "projectId": "psolar",
+          "status": "planejada",
+          "evidence": "Publicação do repositório."
+        },
+        {
+          "projectId": "ppdm",
+          "status": "planejada",
+          "evidence": "Publicação do repositório."
+        },
+        {
+          "projectId": "ptuning",
+          "status": "planejada",
+          "evidence": "Publicação do repositório."
+        },
+        {
+          "projectId": "panomaly",
+          "status": "planejada",
+          "evidence": "Publicação do repositório."
+        }
+      ],
+      "history": []
+    },
+    {
+      "description": "",
+      "notes": "",
+      "id": "scloud",
+      "name": "Cloud (Azure / Databricks)",
+      "category": "Infraestrutura",
+      "level": 0,
+      "target": 2,
+      "roadmapOrder": 6,
+      "roadmapPhase": 4,
+      "content": "Notebook em nuvem, armazenamento e pipeline de dados simples.",
+      "why": "Aparece com frequência em vagas de dados.",
+      "doneCriterion": "Rodar e explicar um notebook simples numa plataforma de nuvem.",
+      "links": [],
+      "history": []
+    },
+    {
+      "description": "",
+      "notes": "",
+      "id": "sind",
+      "name": "Protocolos industriais",
+      "category": "Automação",
+      "level": 1,
+      "target": 3,
+      "roadmapOrder": 7,
+      "roadmapPhase": 4,
+      "content": "Modbus RTU/TCP, conceitos de OPC-UA, indicadores MTTR, MTBF e OEE.",
+      "why": "Conecta dados de chão de fábrica com análise.",
+      "doneCriterion": "Explicar como um dado sai de um CLP até uma tabela analisável.",
+      "links": [
+        {
+          "projectId": "panomaly",
+          "status": "planejada",
+          "evidence": "Núcleo do projeto."
+        }
+      ],
+      "history": []
+    },
+    {
+      "description": "",
+      "notes": "",
+      "id": "smlops",
+      "name": "MLOps",
+      "category": "Machine Learning",
+      "level": 0,
+      "target": 2,
+      "roadmapOrder": 8,
+      "roadmapPhase": 4,
+      "content": "API para servir modelo, monitoramento de drift, versionamento de modelos.",
+      "why": "Leva o modelo do notebook para produção.",
+      "doneCriterion": "Subir uma API simples servindo um modelo treinado.",
+      "links": [],
+      "history": []
+    },
+    {
+      "description": "Manipulação de dados e scripts.",
+      "notes": "Nível de exemplo.",
+      "id": "spython",
+      "name": "Python (Pandas, NumPy)",
+      "category": "Base",
+      "level": 2,
+      "target": 3,
+      "links": [],
+      "history": []
+    },
+    {
+      "description": "Modelos de classificação e regressão.",
+      "notes": "Nível de exemplo.",
+      "id": "sml",
+      "name": "ML clássico (Scikit-learn)",
+      "category": "Base",
+      "level": 1,
+      "target": 3,
+      "links": [],
+      "history": []
+    },
+    {
+      "description": "Modelagem e controle PID.",
+      "notes": "Nível de exemplo.",
+      "id": "sctrl",
+      "name": "Engenharia de controle",
+      "category": "Base",
+      "level": 2,
+      "target": 3,
+      "links": [],
+      "history": []
+    },
+    {
+      "description": "Simulação e modelagem.",
+      "notes": "Nível de exemplo.",
+      "id": "smatlab",
+      "name": "MATLAB/Simulink",
+      "category": "Base",
+      "level": 2,
+      "target": 3,
+      "links": [],
+      "history": []
+    }
+  ],
+  "jobs": [],
+  "posts": [],
+  "settings": {
+    "theme": "dark",
+    "ownerName": "Visitante",
+    "headline": "Dados de exemplo · edite em Configurações",
+    "githubUser": "",
+    "linkedinUrl": "",
+    "career": {
+      "currentPhase": 1,
+      "phaseTitle": "Fase 1 — Primeiros projetos de portfólio",
+      "focus": "Exemplo: publicar 2 projetos completos no GitHub, com README e resultados reprodutíveis, antes de buscar o primeiro estágio.",
+      "targetRoles": [
+        "Estágio em Ciência de Dados",
+        "Estágio em Machine Learning",
+        "Analytics industrial"
+      ],
+      "phase2Options": [
+        {
+          "title": "Opção A — Machine Learning",
+          "note": "Exemplo: aprofundar em deep learning e MLOps."
+        },
+        {
+          "title": "Opção B — Engenharia de dados",
+          "note": "Exemplo: pipelines, bancos de dados e cloud."
+        }
+      ],
+      "rules": [
+        "Todo estudo deve alimentar um projeto do portfólio.",
+        "Nunca adicionar métricas de resultado que não foram realmente medidas."
+      ]
+    }
+  }
+}

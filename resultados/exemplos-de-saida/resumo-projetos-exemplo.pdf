@@ -1,0 +1,574 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 6671
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 20 Tf
+23. TL
+0.078 0.078 0.086 rg
+48. 785.8899999999999864 Td
+(Resumo de projetos - Visitante) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.373 0.369 0.353 rg
+48. 753.8899999999999864 Td
+(Dados de exemplo - edite em Configurações) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.373 0.369 0.353 rg
+48. 738.4900000000000091 Td
+(Gerado em 17 de novembro de 2026) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.373 0.369 0.353 rg
+48. 715.8899999999999864 Td
+(PROJETOS) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.078 0.078 0.086 rg
+48. 695.8899999999999864 Td
+(5) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.373 0.369 0.353 rg
+172.8199999999999932 715.8899999999999864 Td
+(ATIVOS) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.078 0.078 0.086 rg
+172.8199999999999932 695.8899999999999864 Td
+(2) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.373 0.369 0.353 rg
+297.6399999999999864 715.8899999999999864 Td
+(CONCLUÍDOS) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.078 0.078 0.086 rg
+297.6399999999999864 695.8899999999999864 Td
+(1) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.373 0.369 0.353 rg
+422.4599999999999795 715.8899999999999864 Td
+(PUBLICADOS) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.078 0.078 0.086 rg
+422.4599999999999795 695.8899999999999864 Td
+(0) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.078 0.078 0.086 rg
+48. 669.8899999999999864 Td
+(Concluídos \(1\)) Tj
+ET
+0.88 0.88 0.86 RG
+48. 657.6900000000000546 m
+547.2799999999999727 657.6900000000000546 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.078 0.078 0.086 rg
+48. 639.6900000000000546 Td
+(Projeto teste QA) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.384 0.314 0.839 rg
+48. 624.2899999999999636 Td
+(Ideias  |  Progresso 100%  |  Prioridade media) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.078 0.078 0.086 rg
+48. 595.6900000000000546 Td
+(Em andamento \(2\)) Tj
+ET
+0.88 0.88 0.86 RG
+48. 583.4900000000000091 m
+547.2799999999999727 583.4900000000000091 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.078 0.078 0.086 rg
+48. 565.4900000000000091 Td
+(Previsão de geração em usina solar) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.384 0.314 0.839 rg
+48. 550.0900000000000318 Td
+(Em desenvolvimento  |  Progresso 0%  |  Prioridade alta  |  Energia - Séries temporais - Fase 1) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 537.4900000000000091 Td
+(Prever a geração de energia de uma usina fotovoltaica e sinalizar quedas de desempenho a partir de dados) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 523.4900000000000091 Td
+(históricos públicos.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 509.4900000000000091 Td
+(Objetivo: Projeto de entrada no portfólio: problema concreto, dados públicos e resultado fácil de explicar em) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 495.4900000000000091 Td
+(entrevista.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 481.4900000000000091 Td
+(Tecnologias: Python, Pandas, SQL, Séries temporais, XGBoost, Git) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 467.4900000000000091 Td
+(Competências: SQL, Validação estatística, Séries temporais, Git) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.078 0.078 0.086 rg
+48. 441.4900000000000091 Td
+(Manutenção preditiva com dataset público) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.384 0.314 0.839 rg
+48. 426.0900000000000318 Td
+(Em desenvolvimento  |  Progresso 0%  |  Prioridade alta  |  Indústria - Prognóstico \(RUL\) - Fase 2) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 413.4900000000000091 Td
+(Prever falha iminente de equipamento ou estimar a vida útil restante \(RUL\) com um dataset público bem) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 399.4900000000000091 Td
+(documentado.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 385.4900000000000091 Td
+(Objetivo: Mostrar classificação de falha e regressão de RUL em dados industriais de referência.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 371.4900000000000091 Td
+(Tecnologias: Python, Pandas, Scikit-learn, Séries temporais, PyTorch, Git) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 357.4900000000000091 Td
+(Competências: SQL, Validação estatística, PyTorch, Séries temporais, Git) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.078 0.078 0.086 rg
+48. 327.4900000000000091 Td
+(Ideias \(3\)) Tj
+ET
+0.88 0.88 0.86 RG
+48. 315.2899999999999636 m
+547.2799999999999727 315.2899999999999636 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.078 0.078 0.086 rg
+48. 297.2899999999999636 Td
+(Sintonia automática de PID com otimização) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.384 0.314 0.839 rg
+48. 281.8899999999999864 Td
+(Ideias  |  Progresso 0%  |  Prioridade media  |  Controle - Otimização - Fase 3) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 269.2899999999999636 Td
+(Ajustar automaticamente os ganhos de um controlador PID simulado usando otimização bayesiana.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 255.2899999999999636 Td
+(Objetivo: Unir teoria de controle e ML numa comparação justa entre métodos de sintonia.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 241.2899999999999636 Td
+(Tecnologias: Python, SciPy, python-control, Otimização bayesiana, Git) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 227.2899999999999636 Td
+(Competências: Validação estatística, Git) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.078 0.078 0.086 rg
+48. 201.2899999999999636 Td
+(Detecção de anomalia em rede industrial simulada) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.384 0.314 0.839 rg
+48. 185.8899999999999864 Td
+(Ideias  |  Progresso 0%  |  Prioridade media  |  Automação + IA - Fase 4) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 173.2899999999999636 Td
+(Simular tráfego Modbus TCP e treinar um modelo que detecte comportamentos anômalos.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 159.2899999999999636 Td
+(Objetivo: Projeto mais avançado do portfólio, juntando protocolo industrial e detecção de anomalia.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 145.2899999999999636 Td
+(Tecnologias: Python, pymodbus, Modbus TCP, Scikit-learn, Isolation Forest, Git) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.373 0.369 0.353 rg
+48. 131.2899999999999636 Td
+(Competências: Validação estatística, Git, Protocolos industriais) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.078 0.078 0.086 rg
+48. 105.2899999999999636 Td
+(Projeto teste QA) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.384 0.314 0.839 rg
+48. 89.8899999999999864 Td
+(Ideias  |  Progresso 100%  |  Prioridade media) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.373 0.369 0.353 rg
+48. 28. Td
+(Portfolio Manager - Resumo de projetos) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.373 0.369 0.353 rg
+531.7599999999999909 28. Td
+(1 / 1) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261117215938-03'00')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000006875 00000 n 
+0000008692 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000006932 00000 n 
+0000007057 00000 n 
+0000007187 00000 n 
+0000007320 00000 n 
+0000007457 00000 n 
+0000007580 00000 n 
+0000007709 00000 n 
+0000007841 00000 n 
+0000007977 00000 n 
+0000008105 00000 n 
+0000008232 00000 n 
+0000008361 00000 n 
+0000008494 00000 n 
+0000008596 00000 n 
+0000008940 00000 n 
+0000009026 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <F2F32532E73A82A20DA31FF87147BDCE> <F2F32532E73A82A20DA31FF87147BDCE> ]
+>>
+startxref
+9130
+%%EOF

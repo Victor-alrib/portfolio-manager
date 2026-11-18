@@ -1,0 +1,9 @@
+docs after first sync: 17 [
+  'data/users/u123/project__psolar',
+  'data/users/u123/project__ppdm',
+  'data/users/u123/project__ptuning',
+  'data/users/u123/project__panomaly'
+]
+writes for one change: 2 (expect 2: project + meta; reorder may add)
+status: Sincronizado
+errors []

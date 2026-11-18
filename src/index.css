@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tokens de tema — valores RGB para permitir opacidade no Tailwind */
+:root {
+  --bg: 250 250 249;
+  --panel: 255 255 255;
+  --elev: 244 244 242;
+  --line: 228 228 224;
+  --ink: 11 11 11;
+  --sub: 82 81 78;
+  --mute: 130 129 124;
+  --accent: 98 80 214;
+  color-scheme: light;
+}
+.dark {
+  --bg: 14 14 15;
+  --panel: 22 22 24;
+  --elev: 30 30 33;
+  --line: 44 44 48;
+  --ink: 240 239 236;
+  --sub: 195 194 183;
+  --mute: 140 139 132;
+  --accent: 144 133 233;
+  color-scheme: dark;
+}
+
+html, body, #root { height: 100%; }
+body {
+  @apply bg-bg text-ink font-sans antialiased;
+  font-feature-settings: "cv11", "ss01";
+}
+
+::selection { background: rgb(var(--accent) / 0.3); }
+
+* { scrollbar-width: thin; scrollbar-color: rgb(var(--line)) transparent; }
+*::-webkit-scrollbar { width: 8px; height: 8px; }
+*::-webkit-scrollbar-thumb { background: rgb(var(--line)); border-radius: 8px; }
+
+@layer components {
+  .input {
+    @apply w-full rounded-md border border-line bg-panel px-2.5 py-1.5 text-sm text-ink placeholder:text-mute
+           outline-none transition focus:border-accent focus:ring-2 focus:ring-accent/20;
+  }
+  .label { @apply mb-1 block text-xs font-medium text-sub; }
+  .card { @apply rounded-lg border border-line bg-panel; }
+  .kbd { @apply rounded border border-line bg-elev px-1.5 py-0.5 font-mono text-[10px] text-sub; }
+  .md-preview h1 { @apply mb-3 mt-1 text-xl font-semibold; }
+  .md-preview h2 { @apply mb-2 mt-5 border-b border-line pb-1 text-base font-semibold; }
+  .md-preview h3 { @apply mb-1 mt-3 text-sm font-semibold; }
+  .md-preview p { @apply mb-2 text-sm leading-relaxed text-sub; }
+  .md-preview ul { @apply mb-2 list-disc pl-5 text-sm text-sub; }
+  .md-preview ol { @apply mb-2 list-decimal pl-5 text-sm text-sub; }
+  .md-preview blockquote { @apply mb-2 border-l-2 border-accent/60 pl-3 text-sm italic text-mute; }
+  .md-preview code { @apply rounded bg-elev px-1 font-mono text-xs; }
+  .md-preview a { @apply text-accent underline; }
+}
+
+.drop-target { outline: 2px dashed rgb(var(--accent) / 0.6); outline-offset: -4px; }
+
+@media print {
+  aside, .no-print { display: none !important; }
+}

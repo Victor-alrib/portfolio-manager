@@ -1,0 +1,6 @@
+node_modules/
+dist/
+testes/saida/
+.env
+.env.*
+.DS_Store
